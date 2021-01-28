@@ -1,0 +1,35 @@
+[DATA]
+
+{
+	date = 01.01.2021
+	time = 
+	description = "aaaaaaa bbbbbbbbbbbb ccc dddddddd eeeeeeeee"
+	category = 1
+	important = 1
+	period = 1
+	period_count = 1
+	remind_days =
+	remind_min=
+}
+
+{
+	date = 01.05.2020
+	description = "1111111 22222 3333333333333 444 555555555555"
+	category = 1
+	important = 0
+	period = 1
+	period_count = 1
+	remind_days =
+}
+
+{
+	date = 31.12.2020
+	time = 
+	description = "Новый год!"
+	category = 2
+	important = 1
+	period = 4
+	period_count = 1
+	remind_days = 15,7,6,5,4,3,2,1
+	remind_min =
+}
